@@ -1,26 +1,57 @@
+# FreeFlow Internet
+
+**"We can't solve problems by using the same kind of thinking we used when we created them"  **
+
+**Einstein**
+
+## We need a complementary Internet.
+
+We need a digital backbone to create our FreeFlow Nation. Today we have the internet connecting us all but unfortunately, it's too expensive, power hungry, centralized and not scalable enough.
+
+[notscalable](centralised1.png)
+
+More than 80% of today’s internet capacity is centralized and controlled by just a handful of companies
+
+[centralised](centralised2.png)
+
+## ThreeFold has made such a complementary internet possible
+
+### Inspired By Nature
+
+[inspired by nature](human.png)
+
+Our [Decentralized Information System](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g) (DIS) Works like Cells in our Body
+
+### The system is active
+
+[active system](gridloupe.png)
+
+**ThreeFold farmers have already deployed 10x more capacity compared 
+to the sum of all other decentralized projects together (blockchain).**
+
 **There are 3 ways today which allow you to buy Internet Capacity:**
 
-![image alt text](image_0.png)
+[Cloud Market](cloud.png)
 
 ThreeFold can deliver Internet Capacity at a price much lower than alternative centralized solutions and is much faster and more scalable compared to some newer blockchain alternatives.
 
 The cost advantages are substantial.
 
-### **Unlimited Scalability**
+### Unlimited Scalability
 
-![image alt text](image_1.png)
+[unlimited scale](3bot.png)
 
 In this system the 3bots which are the intelligent cells scale independently from the 3nodes, this creates an unlimited, scalable system. The 3bots use the resources of the 3nodes to bring any required service to life 
 
 More info about this system in our [Decentralized Information System document](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g).
 
-# **FreeFlow Information System**
+# FreeFlow Information System
 
 The world needs an efficient** ****[Decentralized Information Syste**m](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g)**.** ThreeFold has created technology which can be used to develop such a system running on top of the ThreeFold grid as described in previous chapter. 
 
-## **From Pyramids To FreeFlow Circles**
+## From Pyramids To FreeFlow Circles
 
-![image alt text](image_2.png)
+[Pyramids to FreeFlow](pyramides.png)
 
 Today every service on the internet is fully centralized. As discussed earlier we have become a product and the services we buy are overpriced.
 
@@ -56,7 +87,7 @@ An ecosystem is growing, please read more about it in the [following document](h
 
 * You have access to any information (education) and can self improve without prejudice
 
-## **Marketing upside down**
+## Marketing upside down
 
 In the FreeFlow Information system, a user gets rewarded for looking around and investigating which products or services to buy.
 
@@ -74,15 +105,15 @@ Result
 
 Basically, this system puts the marketing world upside down and has benefits for consumers and merchants but not for the intermediaries which often don’t have a lot of added value yet still reap most of the benefits.
 
-## **The most scalable system in the world**
+## The most scalable system in the world
 
-![image alt text](image_3.png)
+[Most scalabel system](scalable.png)
 
-## **Safety & Security**
+## Safety & Security
 
 Your information is stored in such a way that it can never be lost or stolen. You have privacy when you need it. You can ask for verification of your information like with a notary.
 
-## **Some advantages for the users of this system**
+## Some advantages for the users of this system
 
 * More Performance
 
@@ -132,7 +163,7 @@ Your information is stored in such a way that it can never be lost or stolen. Yo
 
 More information about how it has been build in our [Decentralized Information System document](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g).
 
-## **Viral system**
+## Viral system
 
 This system is very viral and this will help fast adoption globally. 
 
@@ -140,7 +171,7 @@ Our aim is to have millions of people enabled within a couple of years.
 
 Because of the decentralized nature and no scalability limits this system can scale much faster compared to centralized systems we know today.
 
-## **It feels too much, can this really be done?**
+## It feels too much, can this really be done?
 
 We believe this is very achievable and in fact we are already well on the way to executing on this mission. Today we already have more capacity online compared to the sum of all other blockchain projects.
 
@@ -148,3 +179,4 @@ We are pragmatic and our motto is to do more with less effort. Our technology al
 
 We need more funding though, we are self funded today and have enough to continue but we feel we can go faster and enable more companies to become part of our FreeFlow Nation.
 
+One of our keys to succeed are our partnerships and already today we have quite some partners aligned to make all of this reality.
