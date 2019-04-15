@@ -30,9 +30,21 @@ We have been working for more than 15 years on a technology that can facilitate 
 It's not just a set of ideas, we have already developed most of the required technology and are executing a practical achievable plan.
 
 
+\!!!include("docs/freeflow_values/freeflow_values.md")
 
+\!!!include("docs/freeflow_defenitions/freeflow_defenitions.md")
 
+\!!!include("docs/freeflow_why/freeflow_why.md")
 
+\!!!include("docs/freeflow_internet/freeflow_internet.md")
+
+\!!!include("docs/freeflow_informationsystem/freeflow_informationsystem.md")
+
+\!!!include("docs/freeflow_citizenship/freeflow_citizenship.md")
+
+\!!!include("docs/freeflow_financialsystem/freeflow_financialsystem.md")
+
+\!!!include("docs/freeflow_othersystems/freeflow_othersystems.md")
 
 # Reality Check
 
