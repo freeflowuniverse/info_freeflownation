@@ -1,2 +1,2 @@
 * [Home](/)
-* [Freeflow Manifesto](/docs/manifesto/manifesto.md)
+* [Freeflow Manifesto](/manifesto/manifesto.md)
