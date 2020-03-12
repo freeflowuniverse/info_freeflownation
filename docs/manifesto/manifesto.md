@@ -46,19 +46,5 @@ It's not just a set of ideas, we have already developed most of the required tec
 
 \!!!include("/freeflow_othersystems/freeflow_othersystems.md")
 
-# Reality Check
 
-Our team is not big enough at this point to execute on all as defined above. We need to be very focused to execute on what is required first.
-
-We already got amazingly far but some items need more ‘love’:
-
-* Web Presence is not in line with vision & capabilities & mission, people get confused.
-
-    * A lot of information missing on our wiki’s and github (our code repositories)
-
-* Marketing Message not good enough
-
-    * Need to go over all text & information & make consistent
-
-* ...
 
