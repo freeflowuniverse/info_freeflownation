@@ -1,6 +1,6 @@
 ## Efficiency vs Resilience
 
-[Deserted landscape](desertedlandscape.png)
+![Deserted landscape](desertedlandscape.png)
 
 
 Professor and currency expert Bernard Lietaer ([http://www.lietaer.com/](http://www.lietaer.com/)) advocated an upgrade of our money systems as a systemic solution to our global economic, financial, and sustainability crisis.
@@ -11,11 +11,11 @@ One of the ideas he advocated is how every system in the world balances between 
 
 Understanding parts of his work helps to explain how the world became what it is today. It's the result of a period where efficiency was everything. It gave us the fastest evolution ever achieved in only 100 years but it's not sustainable. His findings can be applied to anything: nature, money, technology, society, ...
 
-[window of viability](windowofviability.png)
+![window of viability](windowofviability.png)
 
 A super efficient system like a monoculture such as pine wood will be not very resilient. These types of forests are very susceptible to sickness and fire, while on the other hand, a mixed forest of trees is much more resilient but not so efficient. 
 
-[monolithic systems](monolithic.png)
+![monolithic systems](monolithic.png)
 
 Our money system is a monoculture, it's very efficient (money being created out of nothing) but also very vulnerable. There were more than 600 monetary crashes since 1970.
 
@@ -23,7 +23,7 @@ Any system that wants to survive for a long time will have to be in the "window 
 
 Most cryptocurrencies today are also monocultures and therefore unstable by design.
 
-[we became the product](becameaproduct.png)
+![we became the product](becameaproduct.png)
 
 Current internet systems are efficient (controlled) centralized systems, they can be hacked easily (are hacked) and are not private. They are positioned left on this curve.
 

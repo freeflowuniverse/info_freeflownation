@@ -1,6 +1,6 @@
 # FreeFlow Nation Manifesto
 
-![lanscape](landscape.png)
+![landscape](landscape.png)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ It's not just a set of ideas, we have already developed most of the required tec
 
 **Continu reading:**
 * [Chapter 1: Values](/freeflow_values/freeflow_values.md)
-* [Chapter 2: Definitions](/freeflow_definitions/freeflow_definitions.md)
+* [Chapter 2: Definitions](/freeflow_definitions/definitions.md)
 * [Chapter 3: Why](/freeflownation_why/freeflownation_why.md)
 * [Chapter 4: FreeFlow Internet](/freeflow_internet/freeflow_internet.md)
 * [Chapter 5: FreeFlow Information System](/freeflow_informationsystem/freeflow_informationsystem.md)

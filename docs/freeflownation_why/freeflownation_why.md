@@ -2,7 +2,7 @@
 
 ## A Value Shift is happening.
 
-[Value Shift](shift.png)
+![Value Shift](shift.png)
 
 * From Fear To Love				=  			 respect for self, others & nature
 
@@ -28,7 +28,7 @@ Too much information is a non fair representation of the reality. As human being
 
 ## Participatory Economy
 
-[wall till debt do us part quote](debtdouspart.png)
+![wall till debt do us part quote](debtdouspart.png)
 
 Liberalism has brought the world to where we are today. (Un)fortunately the world is now coming to the end of that era, our planet cannot cope with the consequences of the incredible growth we’ve experienced over the last 100 years. 
 
@@ -50,7 +50,7 @@ Values, as defined in a participatory economy, are:
 
 [http://www.participatoryeconomics.info/wp-content/uploads/2014/11/Participatory-Economics.pdf](http://www.participatoryeconomics.info/wp-content/uploads/2014/11/Participatory-Economics.pdf)
 
-[noam chomsky quote](noamchomsky.png)
+![noam chomsky quote](noamchomsky.png)
 
 
 \!!!include("docs/freeflownation_why/efficiency-resillience.md)
@@ -62,6 +62,6 @@ It should not be like a typical blockchain project (shared information) and it c
 
 We believe looking at nature is the biggest source of inspiration. Nature took millions of years to create organisms which are beautiful, resilient and still efficient. 
 
-[bigger organism](scale.png)
+![bigger organism](scale.png)
 
 More information about technical requirements for a [Decentralized IT system can be found in this document.](https://docs.google.com/document/d/1uZT03h4QLBh2RYEnUjZQvi2Xoy8fjbUn1eZN_PM8g6g)

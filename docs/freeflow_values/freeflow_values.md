@@ -1,6 +1,6 @@
 ## Our 3x3 FreeFlow Values
 
-[FreeFlow Values](run.png)
+![FreeFlow Values](run.png)
 
 ### 1. Everyone can participate and has equal chances
 

@@ -1,6 +1,6 @@
 # Other FreeFlow Projects
 
-[rocket liftoff](rocket.png)
+![rocket liftoff](rocket.png)
 
 ## ThreeFold Capacity Bank
 
@@ -24,7 +24,7 @@ Already 5 technologies are developed to proof of concept mode.
 
 ## FreeFlow Fund
 
-[butterfly](butterfly.png)
+![butterfly](butterfly.png)
 
 We are in the process to create a 0.5 Billion USD fund in Malta. We believe that decentralization, new digital currencies and new communication technologies are the underpinning of a new digital decentralized world and as such are a great opportunity to be invested in.
 
@@ -60,7 +60,7 @@ Deployment of capacity for the new decentralized world = deploy, own and operate
 
 #  Some other Freelow/ThreeFold related projects
 
-[leaf in hand](leaf.png)
+![leaf in hand](leaf.png)
 
 ## Veda Education project in Luxor (Egypt)
 

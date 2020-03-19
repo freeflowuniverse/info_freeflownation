@@ -4,7 +4,7 @@ The world needs an efficient** ****[Decentralized Information Syste**m](https://
 
 ## From Pyramids To FreeFlow Circles
 
-[Pyramids to FreeFlow](pyramides.png)
+![Pyramids to FreeFlow](pyramides.png)
 
 Today every service on the internet is fully centralized. As discussed earlier we have become a product and the services we buy are overpriced.
 
@@ -60,7 +60,7 @@ Basically, this system puts the marketing world upside down and has benefits for
 
 ## The most scalable system in the world
 
-[Most scalabel system](scalable.png)
+![Most scalabel system](scalable.png)
 
 ## Safety & Security
 

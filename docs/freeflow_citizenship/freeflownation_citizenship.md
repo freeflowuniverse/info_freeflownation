@@ -1,6 +1,6 @@
 # FreeFlow Nation Citizenship
 
-[Flag](flag.png)
+![Flag](flag.png)
 
 Everyone can become a citizen of our FreeFlow nation as long as they agree with our values.
 

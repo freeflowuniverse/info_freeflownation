@@ -1,6 +1,6 @@
 ## FreeFlow Definitions
 
-[dictionairy](book.png)
+![dictionairy](book.png)
 
 * FreeFlow Nation			: our digital nation
 

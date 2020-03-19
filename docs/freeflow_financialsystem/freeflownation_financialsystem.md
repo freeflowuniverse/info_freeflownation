@@ -4,7 +4,7 @@ Every nation needs a financial system. A big part of our vision is to make sure 
 
 ## World's First Decentralized Bank (NBH Digital)
 
-[girl with umbrella in front of yellow wall](yellowwallumbrella.png)
+![girl with umbrella in front of yellow wall](yellowwallumbrella.png)
 
 A decentralized banking wallet without limits, enabling you to control your financial wellbeing from the palm of your hands, with easy to use and easy to access global digital and fiat markets without physical tellers or intermediaries. 
 
@@ -56,7 +56,7 @@ Aim is to add more than 10.000 users per day within 1.5 years from now.
 
 ## FreeFlow Currencies
 
-[hands full of coffee beans](coffee.png)
+![hands full of coffee beans](coffee.png)
 
 Our FFC’s (FreeFlow Currencies)  represent the birth of new kinds of digital currencies;  ones that are designed to be responsible, value-backed and serve a real market and human requirement. They are not speculative instruments or interest driven by design, rather their value and growth are dependent on the social or market problem they aim to resolve and by design all FFC’ s are driven by the same narrative; value, fairness and inclusion. Eventually there will be hundreds of different types of currencies but the first currencies we start with are listed below:
 
