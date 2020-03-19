@@ -1,6 +1,8 @@
-# FreeFlow Nation Manifesto 			[http://](http://freeflowmanifesto.threefold.me)[freeflowmanifesto.threefold.me](http://freeflowmanifesto.threefold.me)
+# FreeFlow Nation Manifesto
 
 ![lanscape](landscape.png)
+
+## Introduction
 
 We (the citizens of FreeFlow Nation) believe the world needs a new nation, a global complementary digital nation. A Nation to complement not replace our existing nations, a Nation which has no physical boundaries and which welcomes everyone as a digital citizen.
 
@@ -29,22 +31,15 @@ We have been working for more than 15 years on a technology that can facilitate 
 
 It's not just a set of ideas, we have already developed most of the required technology and are executing a practical achievable plan.
 
-
-!!!include("/freeflow_values/freeflow_values.md")
-
-!!!include("/freeflow_definitions/freeflow_definitions.md")
-
-!!!include("/freeflownation_why/freeflownation_why.md")
-
-!!!include("/freeflow_internet/freeflow_internet.md")
-
-!!!include("/freeflow_informationsystem/freeflow_informationsystem.md")
-
-!!!include("/freeflow_citizenship/freeflownation_citizenship.md")
-
-!!!include("/freeflow_financialsystem/freeflownation_financialsystem.md")
-
-!!!include("/freeflow_otherprojects/freeflownation_otherprojects.md")
+**Continu reading:**
+* [Chapter 1: Values](/freeflow_values/freeflow_values.md)
+* [Chapter 2: Definitions](/freeflow_definitions/freeflow_definitions.md)
+* [Chapter 3: Why](/freeflownation_why/freeflownation_why.md)
+* [Chapter 4: FreeFlow Internet](/freeflow_internet/freeflow_internet.md)
+* [Chapter 5: FreeFlow Information System](/freeflow_informationsystem/freeflow_informationsystem.md)
+* [Chapter 6: FreeFlow Citizenship](/freeflow_citizenship/freeflownation_citizenship.md)
+* [Chapter 7: Freeflow Financialsystem](/freeflow_financialsystem/freeflownation_financialsystem.md)
+* [Chapter 8: Other Projects](/freeflow_otherprojects/freeflownation_otherprojects.md)
 
 
 
