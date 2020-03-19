@@ -1,7 +1,7 @@
 * [Home](/)
 * [Freeflow Manifesto](/manifesto/manifesto.md)
     * [Chapter 1: Values](/freeflow_values/freeflow_values.md)
-    * [Chapter 2: Definitions](/freeflow_definitions/freeflow_definitions.md)
+    * [Chapter 2: Definitions](/freeflow_definitions/freeflownation_definitions.md)
     * [Chapter 3: Why](/freeflownation_why/freeflownation_why.md)
     * [Chapter 4: FreeFlow Internet](/freeflow_internet/freeflow_internet.md)
     * [Chapter 5: FreeFlow Information System](/freeflow_informationsystem/freeflow_informationsystem.md)
