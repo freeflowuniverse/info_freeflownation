@@ -40,10 +40,9 @@ We don’t like that an AI (Artificial Intelligence) machine decide what informa
 
 ### 5. We should never be a product.
 
-<table>
-  <tr>
-    <td> ![pigs in barn](pigsinbarn.png) </td>
-    <td>We have become a product of a big data machine.
+
+ ![pigs in barn](pigsinbarn.png)
+We have become a product of a big data machine.
 
 Every action we take on our social media, internet searches, … leads to more information used and paid for by ourselves.
 
